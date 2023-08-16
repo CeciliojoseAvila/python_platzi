@@ -1,0 +1,18 @@
+
+nuevas cosas en este archivo
+otra linea
+ mas linea
+
+
+linea 1
+La palabra clave (keyword)
+“with” en Python se denomina un manejador contextual. Esta palabra clave lo que hace es controlar el flujo de nuestro archivo de manera que si cerramos el 
+linea 2
+programa o el Script finaliza inesperadamente, el archivo no se rompe. Luego tenemos la función interna open, que lo que hace es abrir el archivo (ya sea en la computadora o en un servidor si estamos desarrollando aplicaciones web). 
+linea 3
+Esta función open lleva varios parámetros pero los obligatorios son 2:
+linea 4
+1) La ruta del archivo, que va a estar en formato string (entre comillas) 
+2) el modo de apertura, ya sea la r (read), w (write) o a (append). 
+linea 5
+Finalmente, agregamos el keyword as para manejar de manera más sencilla y darle un nombre hipotético a nuestro archivo dentro del programa para poder trabajarlo, en este caso le damos el nombre f.
